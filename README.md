@@ -12,5 +12,3 @@
 ### inserting links nicer
 
 [test a link to the internal file](test_file).
-
-[Duck Duck Go (external link)](https://duckduckgo.com).
